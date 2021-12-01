@@ -1,2 +1,2 @@
 # DecolaTech-DIO
-Repositório para o Bootcamp DecolaTech da Digital Innovation One 
+Repositório para o desafio do Bootcamp DecolaTech da Digital Innovation One 
