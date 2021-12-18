@@ -1,0 +1,15 @@
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.exe
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.deps.json
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\bin\Debug\net6.0\ref\03ExercicioEscolar.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.pdb
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\ref\03ExercicioEscolar.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.pdb
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.genruntimeconfig.cache

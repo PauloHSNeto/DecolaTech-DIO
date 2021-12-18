@@ -1,0 +1,15 @@
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.csproj.AssemblyReference.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.AssemblyInfo.cs
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\bin\Debug\net6.0\02Metodos.exe
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\bin\Debug\net6.0\02Metodos.deps.json
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\bin\Debug\net6.0\02Metodos.runtimeconfig.json
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\bin\Debug\net6.0\02Metodos.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\bin\Debug\net6.0\ref\02Metodos.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\bin\Debug\net6.0\02Metodos.pdb
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\ref\02Metodos.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.pdb
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\02Metodos\obj\Debug\net6.0\02Metodos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.csproj.AssemblyReference.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.AssemblyInfoInputs.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.AssemblyInfo.cs
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\bin\Debug\net6.0\04Exercicio.exe
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\bin\Debug\net6.0\04Exercicio.deps.json
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\bin\Debug\net6.0\04Exercicio.runtimeconfig.json
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\bin\Debug\net6.0\04Exercicio.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\bin\Debug\net6.0\ref\04Exercicio.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\bin\Debug\net6.0\04Exercicio.pdb
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\ref\04Exercicio.dll
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.pdb
+C:\Users\neto.564\DecolaTech-DIO\Orietada a objetos\04Exercicio\obj\Debug\net6.0\04Exercicio.genruntimeconfig.cache
