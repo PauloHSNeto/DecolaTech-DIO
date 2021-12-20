@@ -12,6 +12,6 @@ namespace _06Encapsulamento
     public void mensagem()
     {
         Console.WriteLine("Informe a primeira nota");
-        nota1=Convert.ToInt32(Console.ReadLine);
+        nota1=Convert.ToInt32(Console.ReadLine());
     }
 }
